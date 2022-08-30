@@ -1,2 +1,2 @@
 # abbyTheDog
- clicker game based on my dog
+# clicker game based on my dog
