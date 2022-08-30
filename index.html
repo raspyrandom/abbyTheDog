@@ -10,14 +10,13 @@
 
     let x = 0;
     function mainClick(){
-        document.getElementById("displayPoints").innerHTML=x;
+        document.getElementById("main").innerHTML=x;
             x = x+1;
         
     }
 
 </script>
 <body>
-    <input type="button" onclick="mainClick"></input>
-    <p id="displayPoints">0</p>
+    <input type="button" id="main" onclick="mainClick"></input>
 </body>
 </html>
