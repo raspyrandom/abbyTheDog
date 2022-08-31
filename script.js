@@ -1,6 +1,6 @@
-let x = 0;
+var x = 0;
 function mainClick(){
-    document.getElementById("main").innerHTML=x;
+    document.getElementById("main").innerText=x;
         x = x+1;
     
 }
