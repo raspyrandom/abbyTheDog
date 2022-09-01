@@ -1,4 +1,14 @@
 .btn{
-    background-color: blue;
-    border: 10em
+    background-color: lightgray;
+    padding:10em;
+    border-color:lightgray;
+    border-radius:1em;
+}
+.btn:hover{
+    background-color: grey;
+    border-color:grey; 
+}
+.btn:active{
+    background-color: darkgray;
+    border-color:darkgray; 
 }
